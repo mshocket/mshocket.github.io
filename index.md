@@ -1,9 +1,10 @@
 ---
-title: Welcome to my website
+title: 
 layout: page
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
-  ## Hello world
+  ## Marta Shocket PhD
+  ### Thermal Ecologist and Vector-Borne Disease Specialist
 ---
 
-There isn't much going on here yet, but watch this space
+To be updated
