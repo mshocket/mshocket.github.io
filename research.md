@@ -14,9 +14,9 @@ feature_text: |
 
 **Bold**
 
-_Italics?_
+_Italics_
 
-~Strikethrough?~
+~~Strikethrough~~
 
 [Test](https://mshocket.github.io)
 
