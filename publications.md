@@ -1,12 +1,11 @@
 ---
 title:
 layout: page
-feature_image: "img/Daphniafull.jpg"
+feature_image: "img/DaphniaFull.jpg"
 feature_text:
 # Publications
 ---
 
-## Journal Articles
 
 Strauss, A., J. Hite, D. Civitello, **M. Shocket**, C. Cáceres, and S. Hall. (2019) Genotypic variation in mechanistic, non-linear components of parasite transmission. _Proc. R. Soc. B_. 286(1915): 20192164.
 
