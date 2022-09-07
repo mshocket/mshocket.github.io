@@ -1,10 +1,12 @@
 ---
 title: 
 layout: page
-feature_image: "img/DaphniaBanner.jpg"
+feature_image: "img/DaphniaBanner.png"
 feature_text: |
   ## Publications
 ---
+
+Look at my CV.
 
 ## Journal Articles
 
