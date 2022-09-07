@@ -1,7 +1,7 @@
 ---
 title:
 layout: page
-feature_image: "https://picsum.photos/id/279/1300/400"
+feature_image: "img/Daphniafull.jpg"
 feature_text:
 # Publications
 ---
