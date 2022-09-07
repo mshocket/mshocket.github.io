@@ -1,10 +1,10 @@
 ---
 title: 
 layout: page
-feature_image: "img/DaphniaFull.jpg"
+feature_image: "img/ClimateMozzie.jpg"
 feature_text: |
   ## Marta Shocket PhD
   ### Disease Ecologist and Thermal Biologist
 ---
 
-To be updated
+Conact: marta d0t shocket at gmail d0t com
