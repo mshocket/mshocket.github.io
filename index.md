@@ -4,7 +4,7 @@ layout: page
 feature_image: "https://mshocket.github.io/img/ClimateMozzieCrop.jpg"
 feature_text: |
   ## Marta Shocket, PhD
-  #### Disease Ecology & Thermal Biology
+  ##### Disease Ecology & Thermal Biology
 ---
 
 I'm a disease ecologist and thermal biologist interested in how the environment shapes patterns of infectious disease across spatial and temporal scales. 

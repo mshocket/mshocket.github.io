@@ -1,12 +1,12 @@
 ---
 title: 
 layout: page
-feature_image: "https://mshocket.github.io/img/FourDaphnia.jpg"
+feature_image: "https://picsum.photos/id/279/1300/400"
 feature_text: |
   ## Publications
 ---
 
-Key: *undergraduate mentee, ^graduate student mentee, ‡equal authorship contributions
+Symbol key: *undergraduate mentee, ^graduate student mentee, ‡equal authorship contributions
 
 ## Journal Articles
 
