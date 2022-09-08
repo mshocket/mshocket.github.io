@@ -20,7 +20,7 @@ Temperature is one of the most fundamental forces shaping life on earth. However
 Consequently, it is difficult to causally link variation in temperature to observed variation in disease and predict how changes in temperature will affect transmission, especially when climate change means that future conditions may exceed the currently observed temperature ranges or de-couple associations between co-varying drivers.
 
 ## _Daphnia_-fungal pathogen
-For my PhD, I used a Daphnia-fungus system to test the hypothesis that warmer temperatures promoted larger epidemics, as suggested by several years of field data.
+For my PhD, I used a _Daphnia_-fungal pathogen system to test the hypothesis that warmer temperatures promoted larger epidemics, as suggested by several years of field data.
 
 I conducted several lab experiments to measure how temperature affected host and parasite traits and used these thermal responses to parameterize mathematical models for transmission. This analysis revealed that warmer temperatures increase the foraging rate of hosts (and thus contact with parasites, which they encounter while feeding) and increase the parasite’s ability to successfully infect hosts (Shocket et al. 2018 _Am Nat_). 
  
@@ -31,7 +31,7 @@ I also tested another hypothesis motivated by field observations: do extreme hot
 ## Mosquito-borne disease
 As a postdoc, I investigated how thermal performance varies across mosquito and pathogen species and how these differences affect the predicted thermal response of transmission. I led studies on Ross River virus (Shocket et al. 2018 _eLife_), the most common vector-borne disease in Australia, and on West Nile virus and a suite of five other viruses with overlapping vector species (Shocket et al. 2020 _eLife_).
 
-Together with studies led by my colleagues studying the malaria parasite (Mordecai et al. 2013 _Eco Lett_, Johnson et al. 2015 _Ecology_), dengue virus (Mordecai et al. 2017 _PLOS NTD_), and Zika virus (Tesla et al. _Proc B._), we have generated a systematic analysis of 16 different mosquito-pathogen systems using common methods (Mordecai et al. 2019 _Eco Lett_). This approach allows us to make direct comparisons between different vector-pathogen systems.
+Together with studies led by my colleagues studying the malaria parasite (Mordecai et al. 2013 _Eco Lett_, Johnson et al. 2015 _Ecology_), dengue virus (Mordecai et al. 2017 _PLOS NTD_), and Zika virus (Tesla et al. _Proc B_), we have generated a systematic analysis of 16 different mosquito-pathogen systems using common methods (Mordecai et al. 2019 _Eco Lett_). This approach allows us to make direct comparisons between different vector-pathogen systems.
 
 We found substantial variation in the thermal responses of vector and pathogen species that led to differences in predicted transmission (Mordecai et al. 2019 _Eco Lett_). Nonetheless, transmission for all vector-pathogen pairs is optimized at an intermediate temperature-a "goldilocks temperature" that is neither too cold nor too hold-in the relevant temperature range in nature, in contrast to many prior studies that overestimate the optimum and support the "warmer-is-sicker" hypothesis.
 
@@ -39,8 +39,13 @@ The results from these transmission models—generated solely from laboratory da
 
 In general, our results indicate that the impacts of climate change on mosquito-borne disease will vary by location and time of year, sometimes increasing transmission and sometimes decreasing it. Climate change may also shift which dieases predominate in specific locations. For instance, Africa may see a shift from malaria to arboviruses (Mordecai et al. 2020 _Lancet Planetary Health_).
 
- ## Ongoing Research
+## Ongoing Research
 
-I have several current research projects extending my previous work on mosquito-borne disease, including:
-  - geographically and temporally specific predictions for the impact of climate change on transmission of Ross River virus in Australia and West Nile virus in the US (with QDEC Lab)
-  - the impact of diurnal temperature variation on mosquito performance and predicted transmission (collaboration with Courtney Murdock at Cornell University and Joey Bernhardt at University of Guelph)
+I have several ongoing research projects extending my previous work on mosquito-borne disease, including:
+  - synthesizing approaches for modeling the thermal response of mosquito-borne disease transmission with other work in metabolic theory of ecology (with Van Savage at UCLA)
+
+  - making spatially explicit predictions for the impact of climate change on transmission of Ross River virus in Australia and West Nile virus in the US (with QDEC Lab at Univeristy of Florida)
+
+  - quantifying the impact of diurnal temperature variation on mosquito performance and predicted transmission (collaboration with Courtney Murdock at Cornell University and Joey Bernhardt at University of Guelph)
+
+  - parameterizing a transmission model for avian malaria (collaboration with Oswaldo Villena and colleagues at University of Hawai'i)
