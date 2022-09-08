@@ -16,7 +16,7 @@ During my PhD studying _Daphnia_ zooplankton hosts and a fungal pathogen, we wou
 
 This predator-spreader process is the opposite of how predation is usually considered to impact disease. According to the **"healthy herds"** hypothesis, predators often preferentially kill and consume sick hosts and therefore **decrease** disease transmission. The classic example given for healthy-herds is usually wolves and deer in North America, or sometimes lions and zebras on the African savannah. (My advisor Spencer Hall liked to point out that this healthy-herds idea has even made it to the mainstream to as a factoid on endangered species chocolate bars.)
 
-So when I found out that an artist friend of mine (the amazing [Eric Dagley](https://www.deviantart.com/boyfugly), now working professionally in the video game industry) was looking for commission work, I spent some time thinking what to ask for, and I eventually decided that the predator-spreader concept-while completely unrelated to my personal research-was probably the most visually compelling thing that our lab worked on. 
+So when I found out that an artist friend of mine (the amazing [Eric Dagley](https://www.deviantart.com/boyfugly), now working professionally in the video game industry) was looking for commission work, I quickly decided that the predator-spreader concept - while completely unrelated to my personal research - was probably the most visually compelling thing that our lab worked on. 
 
 Thus, the [masterpiece below](https://www.deviantart.com/boyfugly/art/Glassworm-v-s-Daphnia-527518099) was born.
 
