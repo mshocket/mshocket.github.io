@@ -1,7 +1,7 @@
 ---
 title: 
 layout: page
-feature_image: "img/DaphniaBanner.jpg"
+feature_image: "img/DaphniaBanner.jpeg"
 feature_text: |
   ## Press
 ---

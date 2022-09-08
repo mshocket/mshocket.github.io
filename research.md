@@ -5,6 +5,7 @@ feature_image: "https://picsum.photos/id/279/1300/400"
 feature_text: |
   ## Research
 ---
+
 My research investigates how temperature and other environmental factors shape transmission of infectious diseases, now focusing on mosquito-borne diseases. My work combines field data, laboratory experiments, and mathematical models. I connect phenomena across biological scales by characterizing the organism-level mechanisms that generate population infection dynamics and geographic distributions.
 
 Temperature is one of the most fundamental forces shaping life on earth. However, predicting the impact of temperature—and future climate change—on transmission of infectious disease is challenging for several reasons: 1) the thermal responses of the host and parasite traits that drive transmission are typically nonlinear and often unimodal; 2) transmission itself is a nonlinear process incorporating multiple host and parasite traits that may have opposing thermal responses; 3) temperature varies at multiple spatiotemporal scales; and 4) temperature often covaries with other environmental drivers. Traditional statistical methods are often ill-equipped to grapple with these challenges. Consequently, it is difficult to causally link variation in temperature to observed temporal dynamics and geographic distributions of disease and predict how changes in temperature will affect transmission, especially when future conditions may exceed the currently observed range or de-couple associations between co-varying drivers.

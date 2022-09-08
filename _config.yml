@@ -72,7 +72,7 @@ collections:
     description: "Book reviews and other thoughts on teaching, research, and the world at large" # The post list page content
     feature_text: |
       ## Blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
+    feature_image: "img/FourDaphnia.png"
 
 # 6. Jekyll collections settings
 defaults:
@@ -116,6 +116,8 @@ navigation_header:
   url: /
 - title: Research
   url: /research/
+  - title: Teaching
+  url: /teaching/
 - title: Publications
   url: /publications/
 - title: Press
