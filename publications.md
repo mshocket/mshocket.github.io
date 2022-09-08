@@ -6,9 +6,7 @@ feature_text: |
   ## Publications
 ---
 
-Publications are also available on my [CV](https://mshocket.github.io/MartaShocketCV2022.pdf).
-
-Notation key: *undergraduate student mentee, ^graduate student mentee, ‡equal authorship contributions
+Key: *undergraduate mentee, ^graduate student mentee, ‡equal authorship contributions
 
 ## Journal Articles
 

@@ -1,28 +1,28 @@
 ---
 title: 
 layout: page
-feature_image: "img/DaphniaBanner.jpeg"
+feature_image: "https://mshocket.github.io/img/FourDaphnia.jpg"
 feature_text: |
   ## Press
 ---
 
-I make an effort to response to press inquiries because I think it's critically important for scientists to talk to the general public about the impacts of climate change.
+I make an effort to respond to press inquiries because I think it's critically important for scientists to talk to the general public about the impacts of climate change.
 
 ## Radio, Newspapers, Magazines, & Podcasts
 
-[Why Climate Change May Bring More West Nile Virus To The U.S.](https://www.sciencefriday.com/segments/climate-change-west-nile-virus/) Science Friday, NPR (National Public Radio), March 25, 2002. (Interview for article, radio story, and podcast)
+[Why Climate Change May Bring More West Nile Virus To The U.S.](https://www.sciencefriday.com/segments/climate-change-west-nile-virus/) Science Friday, National Public Radio (NPR), March 25, 2002. (Interview for article, radio story, and podcast)
 
-[West Nile Virus and Climate Change: It’s Complicated](https://www.the-scientist.com/news-opinion/west-nile-virus-and-climate-change-it-s-complicated-69246) The Scientist. Sept. 28, 2021. (Interview/consultation for article)
+[West Nile Virus and Climate Change: It’s Complicated](https://www.the-scientist.com/news-opinion/west-nile-virus-and-climate-change-it-s-complicated-69246) _The Scientist_. Sept. 28, 2021. (Interview/consultation for article)
 
-[Viral Weather: How COVID-19 modelling relates to climate change](https://www.theweathernetwork.com/ca/news/article/viral-weather-future-modelling-and-having-a-climate-change-plan) The Weather Network (Canadian TV Network). May 9, 2020. ; YouTube Link (Video interview for television broadcast, YouTube channel, and podcast)
+[Viral Weather: How COVID-19 modelling relates to climate change](https://www.theweathernetwork.com/ca/news/article/viral-weather-future-modelling-and-having-a-climate-change-plan) The Weather Network (Canadian TV Network). May 9, 2020. [YouTube Link](https://www.youtube.com/watch?v=96KOocMYgXo) (Video interview for television broadcast, YouTube channel, and podcast)
 
-[SciLine Interview with American Association for the Advancement of Science (AAAS) on COVID seasonality](Prepared Q&A for journalists, used for quotes in articles):
-•	[What we know about seasonality and future waves of coronavirus](https://thehill.com/changing-america/well-being/prevention-cures/494536-what-we-know-about-potential-seasonality-and/) by Chia-Yi Hou. The Hill. April 24, 2020.
-•	[3 potential futures for COVID-19: Recurring small outbreaks, a monster wave, or a persistent crisis)[https://www.statnews.com/2020/05/01/three-potential-futures-for-covid-19/] by Sharon Begley. STAT. May 1, 2020. Republished on [Boston.com](https://www.boston.com/news/coronavirus/2020/05/05/3-potential-futures-covid-19/) on May 5, 2020. Referenced in a Croatian language article on [24sata.hr](https://www.24sata.hr/news/tri-scenarija-za-koronu-nagli-rast-oboljelih-kolaps-zdravstva-691553) on May 7, 2020.
+SciLine Interview with American Association for the Advancement of Science (AAAS) on COVID seasonality (Prepared Q&A for journalists, used for quotes in the following articles):
+- [What we know about seasonality and future waves of coronavirus](https://thehill.com/changing-america/well-being/prevention-cures/494536-what-we-know-about-potential-seasonality-and/) by Chia-Yi Hou. The Hill. April 24, 2020.
+- [3 potential futures for COVID-19: Recurring small outbreaks, a monster wave, or a persistent crisis](https://www.statnews.com/2020/05/01/three-potential-futures-for-covid-19/) by Sharon Begley. STAT. May 1, 2020. Republished on [Boston.com](https://www.boston.com/news/coronavirus/2020/05/05/3-potential-futures-covid-19/) on May 5, 2020. Referenced in a Croatian language article on [24sata.hr](https://www.24sata.hr/news/tri-scenarija-za-koronu-nagli-rast-oboljelih-kolaps-zdravstva-691553) on May 7, 2020.
 
 [Is climate change affecting the spread of disease? Honolulu Civil Beat](https://www.civilbeat.org/2020/03/is-climate-change-affecting-the-spread-of-disease/) March 23, 2020. (Podcast interview)
 
-[Episode 51: Transmissible tumors and LSD receptors)[https://www.thenakedscientists.com/articles/interviews/climate-change-and-disease-spread] eLife Podcast by Naked Scientists. Nov. 14, 2018. (Podcast interview)
+[Episode 51: Transmissible tumors and LSD receptors](https://www.thenakedscientists.com/articles/interviews/climate-change-and-disease-spread) eLife Podcast by Naked Scientists. Nov. 14, 2018. (Podcast interview)
 
 [U.S. Faces a Rise in Mosquito ‘Disease Danger Days’](http://www.climatecentral.org/news/us-faces-a-rise-in-mosquito-disease-danger-days-21903) Climate Central. Aug. 8, 2018.  (Interview/consultation for article)
 
