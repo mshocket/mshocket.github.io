@@ -8,7 +8,7 @@ feature_text: |
 
 Symbol key: *undergraduate mentee, ^graduate student mentee, ‡equal authorship contributions
 
-## Journal Articles
+## Peer-reviewed Journal Articles
 
 ### 2022
 
@@ -70,7 +70,7 @@ Civitello, D., R. Penczykowski, A. Smith, **M. Shocket**, M. Duffy, and S. Hall.
 
 ---
 
-## Book Chapters
+## Peer-reviewed Book Chapters
 
 _In review_. **Shocket, M.** and A. Keyel. Chapter 12: Modeling the effects of climate on vector-borne disease. _Planetary Health_. Ed: J. Conn.
 

@@ -32,7 +32,7 @@ SciLine Interview with American Association for the Advancement of Science (AAAS
 
 [West Nile Crippling El Pasoans, Rising Temperatures Play Role](http://www.climatecentral.org/news/west-nile-el-paso-rising-temperatures-play-role-21905) _Climate Central_. Aug. 8, 2018. (Interview/consultation for article)
 
-[Lending a hand: Citizens aid in scientific discoveries](https://mshocket.github.io/PDFs/MartaShocketCV2022.pdf) by **Marta Shocket** _The Ryder_. July 2013. Bloomington, IN. (Article for local monthly arts/alternative newspaper)
+[Lending a hand: Citizens aid in scientific discoveries](https://mshocket.github.io/PDFs/Shocket_CitezenScience.pdf) by **Marta Shocket** _The Ryder_. July 2013. Bloomington, IN. (Article for local monthly arts/alternative newspaper)
 
 ---
 
