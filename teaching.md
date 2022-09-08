@@ -8,7 +8,7 @@ feature_text: |
 
 My teaching philosophy is based on the idea that learning is an active process that requires participation. Everything I do in the classroom is designed to create an environment where students are given opportunities to explore ideas and practice skills and feel comfortable making mistakes.
 
-I am currently adjunct faculty for the [Citizen Science program](https://citizenscience.bard.edu/) at Bard College, an innovative January intercession course designed to train undergraduate students in science literacy that is required for all first-year students. This upcoming year (2023) will be my fourth year teaching and my second year developing curriculum for the program. Working for Bard CitSci has helped me hone my active-learning methods and allowed me to explore new areas of scholarship like environmental justice, making me more well-rounded as a teacher and a scholar.
+I am currently adjunct faculty for the [Citizen Science program](https://citizenscience.bard.edu/) at Bard College, an innovative January intercession course that is is required for all first-year students and designed to increase their science literacy. This upcoming year (2023) will be my fourth year teaching and my second year developing curriculum for the program. Working for Bard CitSci has helped me hone my active-learning methods and allowed me to explore new areas of scholarship like environmental justice, making me more well-rounded as a teacher and a scholar.
 
 My formal pedagogy training includes a Postdoctoral Teaching Certificate from Stanford University and a graduate-level course from the Indiana University Biology Department.
 
