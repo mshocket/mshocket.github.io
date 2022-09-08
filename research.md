@@ -37,14 +37,14 @@ We found substantial variation in the thermal responses of vector and pathogen s
 
 The results from these transmission models—generated solely from laboratory data—predict seasonal and spatial variation in human cases, evidence that temperature casually drives transmission (Shocket et al. 2018, 2020 _eLife_; Mordecai et al. 2019). Additionally, my analysis of West Nile virus encephalitis cases provides some of the strongest evidence to date that hot temperatures already constrain transmission across portions of the U.S., and transmission is likely to decrease with climate change in many areas (Shocket et al. 2020 _eLife_).
 
-In general, our results indicate that the impacts of climate change on mosquito-borne disease will vary by location and time of year, sometimes increasing transmission and sometimes decreasing it. Climate change may also shift which dieases predominate in specific locations. For instance, Africa may see a shift from malaria to arboviruses (Mordecai et al. 2020 _Lancet Planetary Health_).
+In general, our results indicate that the impacts of climate change on mosquito-borne disease will vary by location and time of year, sometimes increasing transmission and sometimes decreasing it. Climate change may also shift which diseases predominate in specific locations. For instance, Africa may see a shift from malaria to arboviruses (Mordecai et al. 2020 _Lancet Planetary Health_).
 
 ## Ongoing Research
 
 I have several ongoing research projects extending my previous work on mosquito-borne disease, including:
   - synthesizing approaches for modeling the thermal response of mosquito-borne disease transmission with other work in metabolic theory of ecology (with Van Savage at UCLA)
 
-  - making spatially explicit predictions for the impact of climate change on transmission of Ross River virus in Australia and West Nile virus in the US (with QDEC Lab at Univeristy of Florida)
+  - making spatially explicit predictions for the impact of climate change on transmission of Ross River virus in Australia and West Nile virus in the US (with QDEC Lab at University of Florida)
 
   - quantifying the impact of diurnal temperature variation on mosquito performance and predicted transmission (collaboration with Courtney Murdock at Cornell University and Joey Bernhardt at University of Guelph)
 
