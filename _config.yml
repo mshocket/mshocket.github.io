@@ -87,7 +87,7 @@ lang: en-GB # Set the site language
 title: "Marta Shocket" # Site name or title, also used in jekyll-seo-tag
 # logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 logo: "https://avatars0.githubusercontent.com/u/38993386?s=460&u=0f777ba280d76378bebb4bb570b6a71fee5677e4&v=4"
-description: "Description" # Site description and default description, also used in jekyll-seo-tag
+description: "Professional website for Marta Shocket, PhD" # Site description and default description, also used in jekyll-seo-tag
 url: "https://mshocket.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/mshocket/mshocket.github.io"
