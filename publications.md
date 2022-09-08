@@ -1,7 +1,7 @@
 ---
 title: 
 layout: page
-feature_image: "img/DaphniaFull.jpg"
+feature_image: "https://mshocket.github.io/img/FourDaphnia.jpg"
 feature_text: |
   ## Publications
 ---
