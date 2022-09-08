@@ -7,7 +7,6 @@ feature_text: |
 ---
 
 Symbol key: *undergraduate mentee, ^graduate student mentee, ‡equal authorship contributions
----
 
 ## Journal Articles
 
