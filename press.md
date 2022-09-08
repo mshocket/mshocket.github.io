@@ -1,7 +1,7 @@
 ---
 title: 
 layout: page
-feature_image: "https://mshocket.github.io/img/ChaoborusCrop.jpg"
+feature_image: "https://mshocket.github.io/img/ClimateStripes.png"
 feature_text: |
   ## Press
 ---

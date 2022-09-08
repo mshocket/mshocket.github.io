@@ -66,12 +66,12 @@ timezone: America/Los_Angeles # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: Posts # Needed for Siteleaf
+    title: Blog # Needed for Siteleaf
     output: false
-    description: "Book reviews and other thoughts on teaching, research, and the world at large" # The post list page content
+    description: "Book reviews and other thoughts on teaching and research" # The post list page content
     feature_text: |
-      ## Blog
-    feature_image: "img/FourDaphnia.png"
+     
+    feature_image: "https://mshocket.github.io/img/ChaoborusCrop.jpg"
 
 # 6. Jekyll collections settings
 defaults:

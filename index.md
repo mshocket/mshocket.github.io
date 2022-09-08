@@ -9,7 +9,7 @@ feature_text: |
 
 I'm a disease ecologist and thermal biologist interested in how the environment shapes patterns of infectious disease across spatial and temporal scales. 
 
-I'm currently an afilliated scientist in the [QDEC Lab](https://www.sadieryan.net) at the University of Florida and adjunct faculty for the [Citizen Science program](https://citizenscience.bard.edu/) at Bard College. I completed my PhD with [Spencer Hall](https://hall.lab.indiana.edu/) at Indiana Univeristy and completed two postdocs, first with [Erin Mordecai](https://www.mordecailab.com/) at Stanford University and then with [Van Savage](https://vsavage.faculty.biomath.ucla.edu/) at UCLA.
+I'm currently an afilliated scientist in the [QDEC Lab](https://www.sadieryan.net) led by Sadie Ryan at the University of Florida and adjunct faculty for the [Citizen Science program](https://citizenscience.bard.edu/) at Bard College. I earned my PhD with [Spencer Hall](https://hall.lab.indiana.edu/) at Indiana Univeristy and completed two postdocs, first with [Erin Mordecai](https://www.mordecailab.com/) at Stanford University and then with [Van Savage](https://vsavage.faculty.biomath.ucla.edu/) at UCLA.
 
 Links to my [CV](https://mshocket.github.io/MartaShocketCV2022.pdf) and [google scholar profile](https://scholar.google.com/citations?user=ibd-mm0AAAAJ&hl=en&oi=ao).
 
