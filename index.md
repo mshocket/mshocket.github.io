@@ -15,3 +15,10 @@ Links to my [CV](https://mshocket.github.io/MartaShocketCV2022.pdf) and [Google 
 Email: marta.shocket at gmail d0t com
 
 Twitter: [@MartaShocket](https://twitter.com/MartaShocket)
+
+<!--
+~~Strikethrough~~
+
+|Table|Test|1  |
+|----:|:--:|:--|
+| Cool! | 12345| Things | -->

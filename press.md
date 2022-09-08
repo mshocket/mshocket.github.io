@@ -8,6 +8,8 @@ feature_text: |
 
 I make an effort to respond to press inquiries because I think it's important for scientists to talk to the general public about their research, especially regarding the impacts of climate change.
 
+---
+
 ## Radio, Newspapers, Magazines, & Podcasts
 
 [Why Climate Change May Bring More West Nile Virus To The U.S.](https://www.sciencefriday.com/segments/climate-change-west-nile-virus/) _Science Friday_, National Public Radio (NPR), March 25, 2002. (Interview for article, radio story, and podcast)
@@ -32,6 +34,8 @@ SciLine Interview with American Association for the Advancement of Science (AAAS
 
 Shocket, M. Lending a hand: Citizens aid in scientific discoveries. _The Ryder_. July 2013. Bloomington, IN. (Article for local monthly arts/alternative newspaper)
 
+---
+
 ## Press Releases
 
 [Stanford course explores how diseases have shaped human history](https://news.stanford.edu/2021/01/27/diseases-history-intertwined/) _Stanford News_. Jan. 27, 2021.
@@ -39,5 +43,3 @@ Shocket, M. Lending a hand: Citizens aid in scientific discoveries. _The Ryder_.
 [Temperature model predicts regional and seasonal virus transmission by mosquitoes](https://www.eurekalert.org/pub_releases/2018-08/e-tmp082818.php) _EurekAlert!_ Aug. 28, 2018.
 
 [IU study: Key factor may be missing from models that predict disease outbreaks from climate change](https://news.iu.edu/stories/2018/08/iub/releases/16-key-factor-missing-models-predict-disease-outbreaks-climate-change.html) _News at IU Bloomington_. Aug. 16, 2018.
-
----

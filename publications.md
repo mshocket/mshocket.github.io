@@ -8,6 +8,8 @@ feature_text: |
 
 Symbol key: *undergraduate mentee, ^graduate student mentee, ‡equal authorship contributions
 
+---
+
 ## Journal Articles
 
 ### 2022
@@ -68,6 +70,7 @@ Hite, J., R. Penczykowski, **M. Shocket**, A. Strauss, P. Orlando, M. Duffy, C. 
 
 Civitello, D., R. Penczykowski, A. Smith, **M. Shocket**, M. Duffy, and S. Hall. (2015) Resources, key traits, and the size of fungal epidemics in Daphnia populations. _Journal of Animal Ecology_. 84(4): 1010-1017.
 
+---
 
 ## Book Chapters
 
@@ -76,5 +79,4 @@ _In review_. **Shocket, M.** and A. Keyel. Chapter 12: Modeling the effects of c
 Kirk, D.‡, E. Skinner‡, **M. Shocket**, L. Couper, N. Nova, T. Athni, J. Pourtois, J. Farner, M. Childs, M. Harris, S. Nyathi,and E. Mordecai. (2022) Chapter 4: Climate change and infectious Disease. _Ecology of Infectious Disease_. Ed: G. Suzán, A. Aguirre, and J. Mills. Oxford University Press. _In press_.
 
 **Shocket, M.**, C. Anderson, J. Caldwell, M. Childs, L. Couper, S. Han, M. Harris, M. Howard, M. Kain, A. McDonald, N. Nova, and E. Mordecai. (2021) Chapter 6: Environmental drivers of vector-borne diseases. _Population Biology of Vector-borne Diseases_. Ed: J. Drake. Oxford University Press.
-.
----
+
