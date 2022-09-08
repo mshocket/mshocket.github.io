@@ -68,7 +68,7 @@ collections:
   posts:
     title: Blog # Needed for Siteleaf
     output: false
-    description: "Book reviews and other thoughts on teaching and research" # The post list page content
+    description: "Book reviews and other thoughts" # The post list page content
     feature_text: |
      
     feature_image: "https://mshocket.github.io/img/ChaoborusCrop.jpg"
