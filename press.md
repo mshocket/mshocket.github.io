@@ -3,13 +3,13 @@ title:
 layout: page
 feature_image: "img/DaphniaBanner.jpg"
 feature_text: |
-  ## Publications
+  ## Press
 ---
 
-All of my publications are also available on my [CV](https://mshocket.github.io/MartaShocketCV2022.pdf).
 
 
-## Radio, Newspaper, Magazines, & Podcasts
+
+## Radio, Newspapers, Magazines, & Podcasts
 
 [Why Climate Change May Bring More West Nile Virus To The U.S.](https://www.sciencefriday.com/segments/climate-change-west-nile-virus/) Science Friday, NPR (National Public Radio), March 25, 2002. (Interview)
 
