@@ -43,15 +43,14 @@ paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
-  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
-author: DavidDarnes # jekyll-seo-tag > default author
+  username: MartaShocket # jekyll-seo-tag > Owners twitter username
+author: MartaShocket # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: David Darnes # jekyll-seo-tag > real name
+  name: Marta Shocket # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/DavidDarnes
-    - https://www.facebook.com/daviddarnes
-    - https://www.linkedin.com/in/daviddarnes
-    - https://github.com/daviddarnes
+    - https://twitter.com/MartaShocket
+    - https://www.linkedin.com/in/marta-shocket-483b4511/
+    - https://github.com/mshocket
 # markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
 # commonmark:
   # options: ["SMART", "FOOTNOTES"]
@@ -62,7 +61,7 @@ sass:
   style: compressed # Style compression
 permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
-timezone: Europe/London # Timezone for blog posts and alike
+timezone: America/Los_Angeles # Timezone for blog posts and alike
 
 # 5. Collections
 collections:
@@ -116,7 +115,7 @@ navigation_header:
   url: /
 - title: Research
   url: /research/
-  - title: Teaching
+- title: Teaching
   url: /teaching/
 - title: Publications
   url: /publications/
@@ -133,7 +132,7 @@ navigation_footer:
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/MartaShocket
-  # LinkedIn: #https://www.linkedin.com/in/daviddarnes
+  # LinkedIn: #https://www.linkedin.com/in/martashocket
   GitHub: https://github.com/mshocket
   link: https://mshocket.github.io
   RSS: /feed.xml
@@ -141,4 +140,4 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
   Twitter: "#0d94e7"
   facebook: "#3B5998"
-  Email: true
+  Email: false

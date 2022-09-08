@@ -1,9 +1,9 @@
 ---
 title:
 layout: page
-feature_image: "img/FourDaphnia.jpg"
+feature_image: "img/ClimateMozzieCrop.jpg"
 feature_text: |
   ## Teaching
 ---
 
-asdf
+I like teaching. It's pretty great.
