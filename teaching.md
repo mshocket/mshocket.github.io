@@ -1,7 +1,7 @@
 ---
 title:
 layout: page
-feature_image: "https://mshocket.github.io/img/Teaching.png"
+feature_image: "https://mshocket.github.io/img/BroadStreetMap.png"
 feature_text: |
   ## Teaching
 ---
