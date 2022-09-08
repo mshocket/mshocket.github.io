@@ -4,7 +4,8 @@ layout: page
 feature_image: "img/ClimateMozzie.jpg"
 feature_text: |
   ## Marta Shocket, PhD
-  ### Disease Ecology and Thermal Biology
+  ### Disease Ecology 
+  ### and Thermal Biology
 ---
 
 I'm a disease ecologist and thermal biologist interested in how the environment shapes patterns of infectious disease across spatial and temporal scales. I'm currently an afilliated scientist in the (QDEC Lab)[www.sadieryan.net] at the University of Florida.

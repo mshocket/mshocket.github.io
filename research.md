@@ -17,7 +17,7 @@ As a postdoc, I investigated how thermal performance varies across mosquito and 
 
 ---
 
-**Bold**
+<!-- **Bold**
 
 _Italics_
 
@@ -27,4 +27,4 @@ _Italics_
 
 |Table|Test|1  |
 |----:|:--:|:--|
-| Cool! | 12345| Things |
+| Cool! | 12345| Things | -->
