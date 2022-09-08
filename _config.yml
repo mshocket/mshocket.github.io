@@ -73,13 +73,13 @@ collections:
      
     feature_image: "https://mshocket.github.io/img/ChaoborusCrop.jpg"
 
-# 6. Jekyll collections settings
+# 6. Jekyll collections settings # the preview image when sharing on e.g., discord
 defaults:
   -
     scope:
       path: ""
     values:
-      image: "/assets/default-social-image.png" # Default image for sharing
+      image: "https://avatars0.githubusercontent.com/u/38993386?s=460&u=0f777ba280d76378bebb4bb570b6a71fee5677e4&v=4" # Default image for sharing
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
