@@ -28,19 +28,19 @@ Athni, T.*, **M. Shocket**, L. Couper, N. Nova, I. Caldwell, J. Caldwell, J. Chi
 
 Nova, N., E. Deyle, **M. Shocket**, A. MacDonald, M. Childs, M. Rypdal, G. Sugihara, and E. Mordecai. (2020) [Susceptible host availability modulates climate effects on dengue dynamics](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13652). _Ecology Letters_. 24(3): 415-425. [PDF](https://mshocket.github.io/PDFs/Nova_2020_EcoLett_DengueClimate.pdf)
 
-**Shocket, M.**, A. Verwillow*, M. Numazu*, H. Slamani, J. Cohen, F. El Moustaid, J. Rohr, L. Johnson, and E. Mordecai. (2020) [Transmission of West Nile and five other temperate mosquito-borne viruses peaks at temperatures between 23°C and 26°C](https://elifesciences.org/articles/58511). _eLife_. 9: e58511. [PDF](https://mshocket.github.io/PDFs/Shocket_2020_eLife_WNVTemperature.pdf)
+**Shocket, M.**, A. Verwillow*, M. Numazu*, H. Slamani, J. Cohen, F. El Moustaid, J. Rohr, L. Johnson, and E. Mordecai. (2020) [Transmission of West Nile and five other temperate mosquito-borne viruses peaks at temperatures between 23°C and 26°C](https://elifesciences.org/articles/58511). _eLife_. 9: e58511. [PDF](https://mshocket.github.io/PDFs/Shocket_2020_eLife_WNVTemperature_.pdf)
 
 ### 2019
 
 Miazgowicz, K., **M. Shocket**, S. Ryan, O. Villena, R. Hall, H. Owen, T. Adanlawo, K. Balaji, L. Johnson, E. Mordecai, and C. Murdock. (2020) [Age influences the thermal suitability of _Plasmodium falciparum_ transmission in the Asian malaria vector _Anopheles stephensi_](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2020.1093). _Proc. R. Soc. B._ 287(1931): 20201093. [PDF](https://mshocket.github.io/PDFs/Miazgowicz_2019_ProcB_AgeAnophelesStephensi.pdf)
 
-Strauss, A., J. Hite, D. Civitello, **M. Shocket**, C. Cáceres, and S. Hall. (2019) [Genotypic variation in parasite avoidance behaviour and other mechanistic, non-linear components of parasite transmission](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2019.2164). _Proc. R. Soc. B_. 286(1915): 20192164. [PDF](https://mshocket.github.io/PDFs/Strauss_2019_GenotypicVariation.pdf)
+Strauss, A., J. Hite, D. Civitello, **M. Shocket**, C. Cáceres, and S. Hall. (2019) [Genotypic variation in parasite avoidance behaviour and other mechanistic, non-linear components of parasite transmission](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2019.2164). _Proc. R. Soc. B_. 286(1915): 20192164. [PDF](https://mshocket.github.io/PDFs/Strauss_2019_ProcB_GenotypicVariation.pdf)
 
 **Shocket, M.**, A. Magnante*, M. Duffy, C. Cáceres, and S. Hall. (2019) [Can hot temperatures limit disease transmission? A test of mechanisms in a zooplankton-fungus system](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.13403). _Functional Ecology_. 33(10): 2017-2029. [PDF](https://mshocket.github.io/PDFs/Shocket_2019_FunEco_HotTemperaturesLimitDisease.pdf)
 
 Mordecai, E., J. Caldwell, M. Grossman, C. Lippi, L. Johnson, M. Niera, J. Rohr, S. Ryan, V. Savage, **M. Shocket**, R. Sippi, A. Stewart Ibarra, M. Thomas, and O. Villena. (2019) [Thermal biology of mosquito-borne disease](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13335). (Cover article) _Ecology Letters_. 22(10): 1690-1708. [PDF](https://mshocket.github.io/PDFs/Mordecai_2019_EcoLett_ThermalBiologyMBD.pdf)
 
-Altassan, K.^, C. Morin, **M. Shocket**, K. Ebi, and J. Hess (2019). [Dengue fever in Saudi Arabia: A review of environmental and population factors impacting emergence and spread](https://www.sciencedirect.com/science/article/abs/pii/S1477893919300651). _Travel Med Infect Dis_. 30: 46-53. [PDF](https://mshocket.github.io/PDFs/Altassan_2019_TravelMedID_DengueSaudiArabia.pdf)
+Altassan, K.^, C. Morin, **M. Shocket**, K. Ebi, and J. Hess (2019). [Dengue fever in Saudi Arabia: A review of environmental and population factors impacting emergence and spread](https://www.sciencedirect.com/science/article/abs/pii/S1477893919300651). _Travel Med Infect Dis_. 30: 46-53. [PDF](https://mshocket.github.io/PDFs/Altassan_2019_TravMedID_DengueSaudiArabia.pdf)
 
 ### 2018
 
