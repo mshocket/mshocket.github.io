@@ -28,7 +28,7 @@ Athni, T.*, **M. Shocket**, L. Couper, N. Nova, I. Caldwell, J. Caldwell, J. Chi
 
 Nova, N., E. Deyle, **M. Shocket**, A. MacDonald, M. Childs, M. Rypdal, G. Sugihara, and E. Mordecai. (2020) [Susceptible host availability modulates climate effects on dengue dynamics](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13652). _Ecology Letters_. 24(3): 415-425. [PDF](https://mshocket.github.io/PDFs/Nova_2020_EcoLett_DengueClimate.pdf)
 
-**Shocket, M.**, A. Verwillow*, M. Numazu*, H. Slamani, J. Cohen, F. El Moustaid, J. Rohr, L. Johnson, and E. Mordecai. (2020) [Transmission of West Nile and five other temperate mosquito-borne viruses peaks at temperatures between 23°C and 26°C](https://elifesciences.org/articles/58511). _eLife_. 9: e58511. [PDF](https://mshocket.github.io/PDFs/Shocket_2020_eLife_WNVTemperature_.pdf)
+**Shocket, M.**, A. Verwillow*, M. Numazu*, H. Slamani, J. Cohen, F. El Moustaid, J. Rohr, L. Johnson, and E. Mordecai. (2020) [Transmission of West Nile and five other temperate mosquito-borne viruses peaks at temperatures between 23°C and 26°C](https://elifesciences.org/articles/58511). _eLife_. 9: e58511. [PDF](https://mshocket.github.io/PDFs/Shocket_2020_eLife_WNVTemperature.pdf)
 
 ### 2019
 
