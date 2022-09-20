@@ -1,7 +1,7 @@
 ---
 title:
 layout: page
-feature_image: "https://mshocket.github.io/img/FourDaphnia.jpg"
+feature_image: "https://mshocket.github.io/img/headers/FourDaphnia.jpg"
 feature_text: |
   ## Research
 ---
@@ -49,3 +49,5 @@ I have several ongoing research projects extending my previous work on mosquito-
   - quantifying the impact of diurnal temperature variation on mosquito performance and predicted transmission (collaboration with Courtney Murdock at Cornell University and Joey Bernhardt at University of Guelph)
 
   - parameterizing a transmission model for avian malaria (collaboration with Oswaldo Villena and colleagues at University of Hawai'i)
+
+  Header photo credit: [Dr. Meghan Duffy](https://duffylab.wordpress.com/) (University of Michigan)

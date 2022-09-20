@@ -1,12 +1,14 @@
 ---
 title: 
 layout: page
-feature_image: "https://mshocket.github.io/img/ClimateStripes.png"
+feature_image: "https://mshocket.github.io/img/headers/ClimateStripes.png"
 feature_text: |
   ## Press
 ---
 
 I make an effort to respond to press inquiries because I think it's important for scientists to talk to the general public about their research, especially regarding the impacts of climate change.
+
+Header image credit: [Warming Stripes](https://www.climate-lab-book.ac.uk/warming-stripes/) by Ed Hawkins
 
 ---
 

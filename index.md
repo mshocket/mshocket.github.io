@@ -1,7 +1,7 @@
 ---
 title: 
 layout: page
-feature_image: "https://mshocket.github.io/img/ClimateMozzieCrop2.jpg"
+feature_image: "https://mshocket.github.io/img/headers/ClimateMozzieCrop.jpg"
 feature_text: |
   ## Marta Shocket, PhD
 ---
