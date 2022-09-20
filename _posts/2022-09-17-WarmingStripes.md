@@ -5,7 +5,6 @@ categories:
 - SciArt
 - SciComm
 - Climate change
-- Temperature
 feature_image: "https://mshocket.github.io/img/headers/ClimateStripes.png"
 ---
 

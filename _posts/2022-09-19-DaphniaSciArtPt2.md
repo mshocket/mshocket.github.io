@@ -3,12 +3,9 @@ layout: post
 title: Daphnia SciArt - Part 2
 categories:
 - SciArt
-- SciComm
 - Daphnia
-- zooplankton
 - Metschnikowia
 - disease
-- fungal pathogens
 feature_image: "https://mshocket.github.io/img/headers/ChaoborusCrop.jpg"
 ---
 
