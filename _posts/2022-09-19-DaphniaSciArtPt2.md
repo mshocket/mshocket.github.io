@@ -14,7 +14,7 @@ feature_image: "https://mshocket.github.io/img/headers/ChaoborusCrop.jpg"
 
 The most important part of a scientific presentation is the science itself, but nice aesthetics can go a long way toward keeping your audience engaged and leaving a good impression.
 
-While revising a presentation, I recently rediscovered some gorgeous _Daphnia_ SciArt by scientific illustrator and artist [Julia Ferguson](https://www.paintingbiology.com/) that my former PhD labmate [Dr. Jessica Hite](https://evolutionaryepidemiology.org/) commissioned for use in her presentations. (You can find both [Jessica](https://twitter.com/JessicaHiteBio) and [Julia](https://twitter.com/JuliaFpaintsbio) on Twitter.)
+While revising a presentation recently, I rediscovered some gorgeous _Daphnia_ SciArt by scientific illustrator and artist [Julia Ferguson](https://www.paintingbiology.com/) that my former PhD labmate [Dr. Jessica Hite](https://evolutionaryepidemiology.org/) commissioned for use in her presentations. (You can find both [Jessica](https://twitter.com/JessicaHiteBio) and [Julia](https://twitter.com/JuliaFpaintsbio) on Twitter.)
 
 Julia drew two _Daphnia dentifera_ hosts. One is uninfected, looks very clear and transparent, and is carrying several eggs in its brood pouch.
 
