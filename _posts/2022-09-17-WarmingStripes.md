@@ -27,9 +27,9 @@ Hawkins' other claim to climate-visualization fame is the [climate spirals](http
 
 The original version was in two dimensions:
 
-![Climate spiral by Ed Hawkins](https://mshocket.github.io/img/blogposts/ClimateSpiral_2020_large.gif)
+![Climate spiral by Ed Hawkins](https://mshocket.github.io/img/blogposts/ClimateSpiral_2020_Large.gif)
 
-But more recently climate spirals have expanded to three dimensions and become more of a climate cup, including [an animated version put together by NASA](https://svs.gsfc.nasa.gov/4975) in March of this year that's been getting more attention this week.
+But more recently climate spirals have expanded to three dimensions and become more of a climate cup, including [an animated version published by NASA](https://svs.gsfc.nasa.gov/4975) in March of this year that's been getting more attention on Twitter this week.
 
 ![Still of a 3D climate spiral by Ed Hawkins](https://mshocket.github.io/img/blogposts/ClimateCup.png)
 
