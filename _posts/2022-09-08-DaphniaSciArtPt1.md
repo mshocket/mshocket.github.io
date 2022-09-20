@@ -3,6 +3,7 @@ layout: post
 title: Daphnia SciArt - Part 1
 categories:
 - SciArt
+- SciComm
 - Daphnia
 - Metschnikowia
 - Chaoborus
@@ -20,12 +21,12 @@ So when I found out that an artist friend of mine (the amazing [Eric Dagley](htt
 
 Thus, the [masterpiece below](https://www.deviantart.com/boyfugly/art/Glassworm-v-s-Daphnia-527518099) was born.
 
-![Digital illustration of a Chaoborus larvae eating an infected Daphnia zooplankton and creating a cloud of fungal spores, while another Daphnia flees](https://mshocket.github.io/img/blogposts/Chaoborus.jpg)
+![Digital illustration of a Chaoborus larvae eating an infected Daphnia zooplankton and creating a cloud of fungal spores, while another Daphnia flees](https://mshocket.github.io/img/blogposts/2022-09-08-Chaoborus.jpg)
 
 I love how it's delightfully stylized, but not too cartoon-y. He did a great job threading that needle, and capturing the cloud of spores escaping from the infected _Daphnia_.
 
 I'm not a trained artist, but I do have one _Daphnia_-related piece of SciArt that I made myself: this ink drawing of a _Daphnia_ I made to put on my grad school business cards.
 
-![A black and white ink drawing of a _Daphnia_](https://mshocket.github.io/img/blogposts/DaphniaSketch.jpg)
+![A black and white ink drawing of a _Daphnia_](https://mshocket.github.io/img/blogposts/2022-09-08-DaphniaSketch.jpg)
 
 If you have any other _Daphnia_ SciArt that you love, feel free to reach out to me on Twitter: @MartaShocket. 

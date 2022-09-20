@@ -3,6 +3,7 @@ layout: post
 title: Daphnia SciArt - Part 2
 categories:
 - SciArt
+- SciComm
 - Daphnia
 - Metschnikowia
 - disease
