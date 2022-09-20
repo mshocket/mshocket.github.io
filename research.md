@@ -50,4 +50,4 @@ I have several ongoing research projects extending my previous work on mosquito-
 
   - parameterizing a transmission model for avian malaria (collaboration with Oswaldo Villena and colleagues at University of Hawai'i)
 
-  Header photo credit: [Dr. Meghan Duffy](https://duffylab.wordpress.com/) (University of Michigan)
+Photo credit: [Dr. Meghan Duffy](https://duffylab.wordpress.com/) (University of Michigan)
