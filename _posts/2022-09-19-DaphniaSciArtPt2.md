@@ -29,4 +29,4 @@ As part of changing over my slides to the new aesthetic, I played around in GIMP
 
 ![Daphnia with their internal organs tinted in colors lined up to  make a rainbow](https://mshocket.github.io/img/blogposts/RainbowDaphniaCongaLine.png)
 
-If you have any other Daphnia SciArt that you love, feel free to reach out to me on Twitter: @MartaShocket.
+If you have any other _Daphnia_ SciArt that you love, feel free to reach out to me on Twitter: @MartaShocket.
