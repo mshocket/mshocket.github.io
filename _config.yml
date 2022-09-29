@@ -71,7 +71,7 @@ collections:
     description: "Science book reviews (coming soon!) and other thoughts" # The post list page content
     feature_text: |
      
-    feature_image: "https://mshocket.github.io/img/ChaoborusCrop.jpg"
+    feature_image: "https://mshocket.github.io/img/headers/ChaoborusCrop.jpg"
 
 # 6. Jekyll collections settings # the preview image when sharing on e.g., discord
 defaults:
@@ -79,14 +79,15 @@ defaults:
     scope:
       path: ""
     values:
-      image: "https://avatars0.githubusercontent.com/u/38993386?s=460&u=0f777ba280d76378bebb4bb570b6a71fee5677e4&v=4" # Default image for sharing
+      image: "https://mshocket.github.io/img/MartaShocketHeadshot.jpeg" # Default image for sharing
+# github avatar image: "https://avatars0.githubusercontent.com/u/38993386?s=460&u=0f777ba280d76378bebb4bb570b6a71fee5677e4&v=4"
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Marta Shocket" # Site name or title, also used in jekyll-seo-tag
 # logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-logo: "https://avatars0.githubusercontent.com/u/38993386?s=460&u=0f777ba280d76378bebb4bb570b6a71fee5677e4&v=4"
+logo: "https://mshocket.github.io/img/MartaShocketHeadshot.jpeg"
 description: "Professional website for Marta Shocket, PhD" # Site description and default description, also used in jekyll-seo-tag
 url: "https://mshocket.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
