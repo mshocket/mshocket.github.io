@@ -8,16 +8,17 @@ feature_text: |
 
 My research investigates how temperature and other environmental factors shape transmission of infectious diseases, with a current focus on mosquito-borne diseases. 
 
-My work combines field data, laboratory experiments, and mathematical models. I connect phenomena across biological scales by characterizing the organism-level mechanisms that generate population-level infection dynamics across temporal and spatial scales, including seasonality, interannual variation, and geographic distributions.
+My work combines field data, laboratory experiments, and mathematical models. I connect phenomena across biological scales by characterizing the community and organism-level mechanisms that generate population-level infection dynamics across temporal and spatial scales, including seasonality, interannual variation, and geographic distributions.
 
 ## Thermal disease ecology
 Temperature is one of the most fundamental forces shaping life on earth. However, predicting the impact of temperature—and future climate change—on transmission of infectious disease is challenging for several reasons:
   1. the thermal responses of the host and parasite traits that drive transmission are typically nonlinear and often unimodal
   2. transmission itself is a nonlinear process incorporating multiple host and parasite traits that may have opposing thermal responses
-  3. temperature varies at multiple relevant temporal scales
-  4. temperature often covaries with other environmental drivers. 
+  3. thermal responses vary among host and parasite species, and most disease transmission occurs in the context of complex ecological communities
+  4. temperature varies at multiple relevant temporal scales
+  5. temperature often covaries with other environmental drivers. 
 
-Consequently, it is difficult to causally link variation in temperature to observed variation in disease and predict how changes in temperature will affect transmission, especially when climate change means that future conditions may exceed the currently observed temperature ranges or de-couple associations between co-varying drivers.
+Consequently, it can be difficult to causally link variation in temperature to observed variation in disease and to predict how changes in temperature will affect transmission, especially when climate change means that future conditions may exceed currently observed temperature ranges or de-couple associations between co-varying drivers.
 
 ## _Daphnia_-fungal pathogen
 For my PhD, I used a _Daphnia_-fungal pathogen system to test the hypothesis that warmer temperatures promoted larger epidemics, as suggested by several years of field data.

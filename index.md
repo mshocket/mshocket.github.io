@@ -8,7 +8,7 @@ feature_text: |
 
 ![Headshot of Marta Shocket](https://mshocket.github.io/img/MartaShocketHeadshot.jpeg)
 
-I'm a disease ecologist and thermal biologist interested in how the environment shapes patterns of infectious disease across spatial and temporal scales.
+I'm a disease ecologist interested in how the environment shapes patterns of infectious disease across spatial and temporal scales.
 
 I'm currently an affiliated scientist in the [QDEC Lab](https://www.sadieryan.net) led by Sadie Ryan at the University of Florida and adjunct faculty for the [Citizen Science program](https://citizenscience.bard.edu/) at Bard College. I earned my PhD with [Spencer Hall](https://hall.lab.indiana.edu/) at Indiana University and completed two postdoctoral appointments, first with [Erin Mordecai](https://www.mordecailab.com/) at Stanford University and then with [Van Savage](https://vsavage.faculty.biomath.ucla.edu/) at UCLA.
 
