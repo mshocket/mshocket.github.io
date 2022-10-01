@@ -12,11 +12,11 @@ My work combines field data, laboratory experiments, and mathematical models. I 
 
 ## Thermal disease ecology
 Temperature is one of the most fundamental forces shaping life on earth. However, predicting the impact of temperature—and future climate change—on transmission of infectious disease is challenging for several reasons:
-  1. the thermal responses of the host and parasite traits that drive transmission are typically nonlinear and often unimodal
-  2. transmission itself is a nonlinear process incorporating multiple host and parasite traits that may have opposing thermal responses
-  3. thermal responses vary among host and parasite species, and most disease transmission occurs in the context of complex ecological communities
-  4. temperature varies at multiple relevant temporal scales
-  5. temperature often covaries with other environmental drivers. 
+  1. The thermal responses of the host and parasite traits that drive transmission are typically nonlinear and often unimodal.
+  2. Transmission itself is a nonlinear process incorporating multiple host and parasite traits that may have opposing thermal responses.
+  3. Thermal responses vary among host and parasite species, and most disease transmission occurs in the context of complex ecological communities.
+  4. Temperature varies at multiple relevant temporal scales.
+  5. Temperature often covaries with other environmental drivers. 
 
 Consequently, it can be difficult to causally link variation in temperature to observed variation in disease and to predict how changes in temperature will affect transmission, especially when climate change means that future conditions may exceed currently observed temperature ranges or de-couple associations between co-varying drivers.
 
