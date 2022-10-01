@@ -22,6 +22,8 @@ Consequently, it is difficult to causally link variation in temperature to obser
 ## _Daphnia_-fungal pathogen
 For my PhD, I used a _Daphnia_-fungal pathogen system to test the hypothesis that warmer temperatures promoted larger epidemics, as suggested by several years of field data.
 
+![Picture of Marta taking lake samples from a kayak](https://mshocket.github.io/img/MartaKayak.jpg)
+
 I conducted several lab experiments to measure how temperature affected host and parasite traits and used these thermal responses to parameterize mathematical models for transmission. This analysis revealed that warmer temperatures increase the foraging rate of hosts (and thus contact with parasites, which they encounter while feeding) and increase the parasite’s ability to successfully infect hosts (Shocket et al. 2018 _Am Nat_). 
  
 Surprisingly, the parasite’s ability to infect hosts depended primarily on the temperature at which it was produced (i.e., the temperature of the previous infection), rather than on the temperature in which it encountered and infected new hosts (Shocket et al. 2018 _Ecology_). This "trans-host" effect is a novel biological mechanism by which temperature can drive infection dynamics and could be important in other host-parasite systems, although we have very little data because it is so understudied. 

@@ -6,7 +6,7 @@ feature_text: |
   ## Marta Shocket, PhD
 ---
 
-![Portrait of Marta Shocket](https://mshocket.github.io/img/MartaShocketHeadshot.jpeg)
+![Headshot of Marta Shocket](https://mshocket.github.io/img/MartaShocketHeadshot.jpeg)
 
 I'm a disease ecologist and thermal biologist interested in how the environment shapes patterns of infectious disease across spatial and temporal scales.
 
