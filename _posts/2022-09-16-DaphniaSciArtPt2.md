@@ -30,6 +30,6 @@ As part of changing over my slides to the new aesthetic, I played around in GIMP
 
 ![Daphnia with their internal organs tinted in colors lined up to  make a rainbow](https://mshocket.github.io/img/blogposts/RainbowDaphniaCongaLine.png)
 
-Julia releases her art under a creative commons selected license, so you can use it or adapt it for non-commercial purposes, as long as you provide proper attribution (her name, and contact information if possible).
+Julia releases her art under a creative commons selected license - you can use it for non-commercial purposes, but you need to provide proper attribution (her name, and contact information if space allows), and you must ask permission if you wish to adapt or modify it.
 
 If you have any other _Daphnia_ SciArt that you love, feel free to reach out to me on Twitter: @MartaShocket.

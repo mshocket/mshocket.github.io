@@ -49,7 +49,6 @@ social: # jekyll-seo-tag > social overrides
   name: Marta Shocket # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
     - https://twitter.com/MartaShocket
-    - https://www.linkedin.com/in/marta-shocket-483b4511/
     - https://github.com/mshocket
 # markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
 # commonmark:
@@ -79,15 +78,15 @@ defaults:
     scope:
       path: ""
     values:
-      image: "https://mshocket.github.io/img/MartaShocketHeadshot.jpeg" # Default image for sharing
-# github avatar image: "https://avatars0.githubusercontent.com/u/38993386?s=460&u=0f777ba280d76378bebb4bb570b6a71fee5677e4&v=4"
+      image: "https://mshocket.github.io/img/logos/MicroscopeLogo.png" # Default image for sharing
+# originally set as github avatar image: "https://avatars0.githubusercontent.com/u/38993386?s=460&u=0f777ba280d76378bebb4bb570b6a71fee5677e4&v=4"
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Marta Shocket" # Site name or title, also used in jekyll-seo-tag
 # logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-logo: "https://mshocket.github.io/img/Microscope_small.jpeg"
+logo: "https://mshocket.github.io/img/logos/MicroscopeLogo.png"
 description: "Professional website for Marta Shocket, PhD" # Site description and default description, also used in jekyll-seo-tag
 url: "https://mshocket.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
@@ -101,14 +100,23 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 
 # 8. Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
-  16: '/assets/logos/logo@16px.png'
-  32: '/assets/logos/logo@32px.png'
-  96: '/assets/logos/logo@96px.png'
-  120: '/assets/logos/logo@120px.png'
-  144: '/assets/logos/logo@144px.png'
-  180: '/assets/logos/logo@180px.png'
-  512: '/assets/logos/logo@512px.png'
-  1024: '/assets/logos/logo@1024px.png'
+  16: "https://mshocket.github.io/img/logos/MicroscopeLogo16.png"
+  32: "https://mshocket.github.io/img/logos/MicroscopeLogo32.png"
+  96: "https://mshocket.github.io/img/logos/MicroscopeLogo96.png"
+  120: "https://mshocket.github.io/img/logos/MicroscopeLogo120.png"
+  144: "https://mshocket.github.io/img/logos/MicroscopeLogo144.png"
+  180: "https://mshocket.github.io/img/logos/MicroscopeLogo180.png"
+  512: "https://mshocket.github.io/img/logos/MicroscopeLogo512.png"
+  1024: "https://mshocket.github.io/img/logos/MicroscopeLogo1024.png"
+  # defaults
+  #16: '/assets/logos/logo@16px.png'
+  #32: '/assets/logos/logo@32px.png'
+  #96: '/assets/logos/logo@96px.png'
+  #120: '/assets/logos/logo@120px.png'
+  #144: '/assets/logos/logo@144px.png'
+  #180: '/assets/logos/logo@180px.png'
+  #512: '/assets/logos/logo@512px.png'
+  #1024: '/assets/logos/logo@1024px.png'
 
 # 9. Site navigation
 navigation_header:
