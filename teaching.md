@@ -6,7 +6,7 @@ feature_text: |
   ## Teaching
 ---
 
-My teaching philosophy is based on the idea that learning is an active process. Everything I do in the classroom is designed to create an environment where students are given opportunities to explore ideas and practice skills and feel comfortable making mistakes.
+My teaching philosophy is based on the idea that learning is an active process. Everything I do in the classroom is designed to create an environment where students are given opportunities to explore concepts and practice skills and feel comfortable making mistakes.
 
 I am currently an adjunct faculty member for the [Citizen Science program](https://citizenscience.bard.edu/) at Bard College, an innovative January intercession course on science literacy that is is required for all first-year students. This upcoming year (2023) will be my fourth year teaching and my second year developing curricula for the program. Working for Bard CitSci has helped me hone my active-learning methods and allowed me to explore new areas of scholarship like environmental justice.
 
