@@ -29,4 +29,4 @@ I'm not a trained artist, but I do have one _Daphnia_-related piece of SciArt th
 
 ![A black and white ink drawing of a _Daphnia_](https://mshocket.github.io/img/blogposts/2022-09-08-DaphniaSketch.jpg)
 
-If you have any other _Daphnia_ SciArt that you love, feel free to reach out to me on Twitter: @MartaShocket. 
+If you have any other _Daphnia_ SciArt that you love, feel free to reach out to me on Twitter: @MartaShocket or via email. 
