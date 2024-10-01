@@ -6,11 +6,9 @@ feature_text: |
   ## Press
 ---
 
-
-<!-- I make an effort to respond to press inquiries because I think it's important for scientists to talk to the general public about their research, especially regarding the impacts of climate change.-->
----
-
 ## Radio, Newspapers, Magazines, & Podcasts
+
+[How climate change is affecting the spread of mosquito-borne illnesses](https://www.npr.org/2024/09/09/nx-s1-5095192/how-climate-change-is-affecting-the-spread-of-mosquito-borne-illnesses) by Alejandra Borunda. _All Things Considered_, National Public Radio (NPR), Sept. 9, 2024. (Interview for radio story)
 
 [Why Climate Change May Bring More West Nile Virus To The U.S.](https://www.sciencefriday.com/segments/climate-change-west-nile-virus/) _Science Friday_, National Public Radio (NPR), March 25, 2022. (Interview for article, radio story, and podcast)
 
