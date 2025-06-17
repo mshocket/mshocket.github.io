@@ -12,17 +12,17 @@ Symbol key: *undergraduate mentee, ^graduate student mentee, ‡equal authorship
 
 ### 2024
 
-Dennington, N., M. Grossman, F. Ware-Gilmore, J. Teeple, L. Johnson, **M. Shocket**, Elizabeth A. McGraw, M. Thomas. (2024) Phenotypic adaptation to temperature in the mosquito vector, Aedes aegypti. Global Change Biology. 30(1): e17041.
+Dennington, N., M. Grossman, F. Ware-Gilmore, J. Teeple, L. Johnson, **M. Shocket**, Elizabeth A. McGraw, M. Thomas. (2024) [Phenotypic adaptation to temperature in the mosquito vector, _Aedes aegypti_](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.17041). _Global Change Biology_. 30(1): e17041.
 
-Hector, T., **M. Shocket**, C. Sgrò, and M. Hall. (2024) Thermal acclimation to warmer temperatures can protect host populations from both further heat stress and the potential invasion of pathogens. Global Change Biology. 30(6): e17341.
+Hector, T., **M. Shocket**, C. Sgrò, and M. Hall. (2024) [Acclimation to warmer temperatures can protect host populations from both further heat stress and the potential invasion of pathogens](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.17341). _Global Change Biology_. 30(6): e17341.
 
-Pawar, S., P. Huxley, T. Smallwood, M. Nesbit, A. Chan, **M. Shocket**, L. Johnson, G. Dimitrios, and L. Cator (2024). Variation in temperature of peak trait performance will constrain adaptation of arthropod populations to climatic warming. Nature Ecology & Evolution. In press.
+Pawar, S., P. Huxley, T. Smallwood, M. Nesbit, A. Chan, **M. Shocket**, L. Johnson, G. Dimitrios, and L. Cator (2024). [Variation in temperature of peak trait performance constrains adaptation of arthropod populations to climatic warming](https://www.nature.com/articles/s41559-023-02301-8). _Nature Ecology & Evolution_. 8: 500–510.
 
-Penczykowski, R., M. Fearon, J. Hite, **Shocket, M.**, S. Hall, and M. Duffy. (2024) Pathways linking nutrient enrichment, habitat structure, and parasitism to host–resource interactions. Oecologia. 204: 439-449.
+Penczykowski, R., M. Fearon, J. Hite, **Shocket, M.**, S. Hall, and M. Duffy. (2024) [Pathways linking nutrient enrichment, habitat structure, and parasitism to host–resource interactions](https://link.springer.com/article/10.1007/s00442-023-05469-9). _Oecologia_. 204: 439-449.
 
 ### 2023
 
-**Shocket, M.** (2023) Fluctuating temperatures have a surprising effect on disease transmission. PLOS Biology. 21(9): e3002288.
+**Shocket, M.** (2023) Fluctuating temperatures have a surprising effect on disease transmission. _PLOS Biology_. 21(9): e3002288.
 
 ### 2022
 

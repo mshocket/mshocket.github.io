@@ -8,6 +8,9 @@ feature_text: |
 
 ## Radio, Newspapers, Magazines, & Podcasts
 
+
+[Climate change plays a role in global rise of dengue fever](https://www.npr.org/2024/11/23/nx-s1-5193356/climate-change-dengue-fever-mosquito-mexico-brazil) by Alejandra Borunda. National Public Radio (NPR), Nov. 23, 2024. (Interview for radio story)
+
 [How climate change is affecting the spread of mosquito-borne illnesses](https://www.npr.org/2024/09/09/nx-s1-5095192/how-climate-change-is-affecting-the-spread-of-mosquito-borne-illnesses) by Alejandra Borunda. _All Things Considered_, National Public Radio (NPR), Sept. 9, 2024. (Interview for radio story)
 
 [Why Climate Change May Bring More West Nile Virus To The U.S.](https://www.sciencefriday.com/segments/climate-change-west-nile-virus/) _Science Friday_, National Public Radio (NPR), March 25, 2022. (Interview for article, radio story, and podcast)
