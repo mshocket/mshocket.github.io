@@ -10,6 +10,10 @@ Symbol key: *undergraduate mentee, ^graduate student mentee, ‡equal authorship
 
 ## Peer-reviewed Journal Articles
 
+### 2025
+
+Shocket, M., J. Bernhardt, K. Miazgowicz, A. Orakzai, V. Savage, R. Hall, S. Ryan, and C. Murdock. (2025). [Mean daily temperatures predict the thermal limits of malaria transmission better than hourly rate summation](https://www.nature.com/articles/s41467-025-58612-w). _Nature Communications_, 16(1): 3441.
+
 ### 2024
 
 Dennington, N., M. Grossman, F. Ware-Gilmore, J. Teeple, L. Johnson, **M. Shocket**, Elizabeth A. McGraw, M. Thomas. (2024) [Phenotypic adaptation to temperature in the mosquito vector, _Aedes aegypti_](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.17041). _Global Change Biology_. 30(1): e17041.
