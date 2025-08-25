@@ -12,11 +12,11 @@ I'm a disease ecologist working as a [Lecturer in Ecology at Lancaster Universit
 
 Previously I was an affiliated scientist in the [QDEC Lab](https://www.sadieryan.net) led by Sadie Ryan at the University of Florida and an adjunct faculty member for the [Citizen Science program](https://citizenscience.bard.edu/) at Bard College. I earned my PhD with [Spencer Hall](https://hall.lab.indiana.edu/) at Indiana University and completed two postdoctoral appointments, first with [Erin Mordecai](https://www.mordecailab.com/) at Stanford University and then with [Van Savage](https://vsavage.faculty.biomath.ucla.edu/) at UCLA.
 
-Links to my [CV](https://mshocket.github.io/PDFs/MartaShocketCV.pdf) and [Google Scholar profile](https://scholar.google.com/citations?user=ibd-mm0AAAAJ&hl=en&oi=ao).
+Links to my [Lancaster University page](https://www.lancaster.ac.uk/lec/about-us/people/marta-shocket), [CV](https://mshocket.github.io/PDFs/MartaShocketCV.pdf), [Google Scholar profile](https://scholar.google.com/citations?user=ibd-mm0AAAAJ&hl=en&oi=ao), and [GitHub profile](https://github.com/mshocket).
 
-Email: marta.shocket at gmail d0t com
+Email: m.shocket at lancaster d0t ac d0t uk
 
-Twitter: [@MartaShocket](https://twitter.com/MartaShocket)
+Bluesky: [@MartaShocket](https://bsky.app/profile/martashocket.bsky.social)
 
 <!--
 ~~Strikethrough~~
