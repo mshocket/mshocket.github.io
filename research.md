@@ -22,17 +22,6 @@ Consequently, it can be difficult to causally link variation in temperature to o
 
 My research uses trait-based approaches to address these challenges.
 
-## _Daphnia_-fungal pathogen
-For my PhD, I used a _Daphnia_-fungal pathogen system to test the hypothesis that warmer temperatures promoted larger epidemics, as suggested by several years of field data.
-
-![Picture of Marta taking lake samples from a kayak](https://mshocket.github.io/img/MartaKayak.jpg)
-
-I conducted lab experiments to measure how temperature affected host and parasite traits and used these thermal responses to parameterize mathematical models for transmission. This analysis revealed that warmer temperatures increase the foraging rate of hosts (and contact with parasites, which they encounter while feeding) and increase the parasite’s ability to successfully infect hosts ([Shocket et al. 2018 _Am Nat_](https://www.journals.uchicago.edu/doi/abs/10.1086/696096), [PDF](https://mshocket.github.io/PDFs/Shocket_2018_AmNat_TemperatureForaging.pdf)). 
- 
-Surprisingly, the parasite’s ability to infect hosts depended primarily on the temperature at which it was produced (i.e., the temperature of the previous infection), rather than on the temperature in which it encountered and infected new hosts ([Shocket et al. 2018 _Ecology_](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.2430), [PDF](https://mshocket.github.io/PDFs/Shocket_2018_Ecology_RearingInfectionTemperatures.pdf)). This "trans-host" effect is a novel biological mechanism by which temperature can drive infection dynamics. It could also be important in other host-parasite systems, although we have very little data because it is so understudied.
-
-I also tested another hypothesis motivated by field observations: do extreme hot temperatures exclude epidemics during the summer? Hot temperatures did reduce transmission via the trans-host effect and other damage to parasites. However, these effects were not strong enough to explain the lack of summer epidemics ([Shocket et al. 2019 _Func Ecol_](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.13403), [PDF](https://mshocket.github.io/PDFs/Shocket_2019_FunEco_HotTemperaturesLimitDisease.pdf)).
-
 ## Mosquito-borne disease
 As a postdoc, I investigated how thermal performance varies across mosquito and pathogen species and how these differences affect the predicted thermal response of transmission. I led studies on Ross River virus ([Shocket et al. 2018 _eLife_](https://elifesciences.org/articles/37762), [PDF](https://mshocket.github.io/PDFs/Shocket_2018_eLife_RRVTemperature.pdf)), the most common vector-borne disease in Australia, and on West Nile virus and a suite of five other viruses with overlapping vector species ([Shocket et al. 2020 _eLife_](https://elifesciences.org/articles/58511), [PDF](https://mshocket.github.io/PDFs/Shocket_2020_eLife_WNVTemperature.pdf)).
 
@@ -46,15 +35,29 @@ The results from these transmission models predict seasonal and spatial variatio
 
 In general, our results indicate that the impacts of climate change on mosquito-borne disease will vary by location and time of year, sometimes increasing transmission and sometimes decreasing it. Climate change may also shift which diseases predominate in specific locations. For instance, Africa could see a shift from malaria to arboviruses ([Mordecai et al. 2020 _Lancet Planetary Health_](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(20)30178-9/fulltext)).
 
+Most recently, I worked on a project measuring the impact of daily temperature variation on mosquito performance in _Anopheles stephensi_ and testing mathematical methods for predicting the impact of this type of variation ([Shocket et al. 2025 _Nature Communications_](https://www.nature.com/articles/s41467-025-58612-w)).
+
+## _Daphnia_-fungal pathogen
+For my PhD, I used a _Daphnia_-fungal pathogen system to test the hypothesis that warmer temperatures promoted larger epidemics, as suggested by several years of field data.
+
+![Picture of Marta taking lake samples from a kayak](https://mshocket.github.io/img/MartaKayak.jpg)
+
+I conducted lab experiments to measure how temperature affected host and parasite traits and used these thermal responses to parameterize mathematical models for transmission. This analysis revealed that warmer temperatures increase the foraging rate of hosts (and contact with parasites, which they encounter while feeding) and increase the parasite’s ability to successfully infect hosts ([Shocket et al. 2018 _Am Nat_](https://www.journals.uchicago.edu/doi/abs/10.1086/696096), [PDF](https://mshocket.github.io/PDFs/Shocket_2018_AmNat_TemperatureForaging.pdf)). 
+ 
+Surprisingly, the parasite’s ability to infect hosts depended primarily on the temperature at which it was produced (i.e., the temperature of the previous infection), rather than on the temperature in which it encountered and infected new hosts ([Shocket et al. 2018 _Ecology_](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.2430), [PDF](https://mshocket.github.io/PDFs/Shocket_2018_Ecology_RearingInfectionTemperatures.pdf)). This "trans-host" effect is a novel biological mechanism by which temperature can drive infection dynamics. It could also be important in other host-parasite systems, although we have very little data because it is so understudied.
+
+I also tested another hypothesis motivated by field observations: do extreme hot temperatures exclude epidemics during the summer? Hot temperatures did reduce transmission via the trans-host effect and other damage to parasites. However, these effects were not strong enough to explain the lack of summer epidemics ([Shocket et al. 2019 _Func Ecol_](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.13403), [PDF](https://mshocket.github.io/PDFs/Shocket_2019_FunEco_HotTemperaturesLimitDisease.pdf)).
+
 ## Ongoing Research
 
-I have several ongoing research projects extending my previous work on mosquito-borne disease, including:
-  - synthesizing approaches for modeling the thermal response of mosquito-borne disease transmission with other work in metabolic theory of ecology (with Van Savage at UCLA)
+I have several research projects extending my previous work on mosquito-borne disease, including:
+  
+  - testing how mathematical methods for incorporating diurnal temperature variation affect the accuracy of transmission models using observed cases of arboviruses (collaboration with Courtney Murdock and Laura Multini at Cornell University)
+  
+  - parameterizing a transmission model for avian malaria (collaboration with Oswaldo Villena and colleagues at University of Hawai'i)
 
   - making spatially explicit predictions for the impact of climate change on transmission of Ross River virus in Australia and West Nile virus in the US (with Sadie Ryan at University of Florida)
 
-  - quantifying the impact of diurnal temperature variation on mosquito performance and predicted transmission (collaboration with Courtney Murdock at Cornell University and Joey Bernhardt at University of Guelph)
-
-  - parameterizing a transmission model for avian malaria (collaboration with Oswaldo Villena and colleagues at University of Hawai'i)
+  - synthesizing approaches for modeling the thermal response of mosquito-borne disease transmission with other work in metabolic theory of ecology (with Van Savage at UCLA)
 
 Daphnia photo credit: [Dr. Meghan Duffy](https://duffylab.wordpress.com/) (University of Michigan)
