@@ -10,9 +10,13 @@ Symbol key: *undergraduate mentee, ^graduate student mentee, ‡equal authorship
 
 ## Peer-reviewed Journal Articles
 
+### In review
+
+Chelbi‡, I., **M. Shocket**‡, E. Zhioua, J. Hamilton. An oviposition pheromone, hexadecanoic acid, found on the eggs of _Phlebotomus papatasi_ from Sidi Bouzid, Tunisia attracts gravid females and stimulates oviposition.
+
 ### 2025
 
-Shocket, M., J. Bernhardt, K. Miazgowicz, A. Orakzai, V. Savage, R. Hall, S. Ryan, and C. Murdock. (2025). [Mean daily temperatures predict the thermal limits of malaria transmission better than hourly rate summation](https://www.nature.com/articles/s41467-025-58612-w). _Nature Communications_, 16(1): 3441.
+**Shocket, M.**, J. Bernhardt, K. Miazgowicz, A. Orakzai, V. Savage, R. Hall, S. Ryan, and C. Murdock. (2025). [Mean daily temperatures predict the thermal limits of malaria transmission better than hourly rate summation](https://www.nature.com/articles/s41467-025-58612-w). _Nature Communications_, 16(1): 3441.
 
 ### 2024
 

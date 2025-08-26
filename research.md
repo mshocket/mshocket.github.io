@@ -58,6 +58,4 @@ I have several research projects extending my previous work on mosquito-borne di
 
   - making spatially explicit predictions for the impact of climate change on transmission of Ross River virus in Australia and West Nile virus in the US (with Sadie Ryan at University of Florida)
 
-  - synthesizing approaches for modeling the thermal response of mosquito-borne disease transmission with other work in metabolic theory of ecology (with Van Savage at UCLA)
-
 Daphnia photo credit: [Dr. Meghan Duffy](https://duffylab.wordpress.com/) (University of Michigan)
