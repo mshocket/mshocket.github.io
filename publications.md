@@ -12,7 +12,7 @@ Symbol key: *undergraduate mentee, ^graduate student mentee, ‡equal authorship
 
 ### In review
 
-Chelbi‡, I., **M. Shocket**‡, E. Zhioua, J. Hamilton. An oviposition pheromone, hexadecanoic acid, found on the eggs of _Phlebotomus papatasi_ from Sidi Bouzid, Tunisia attracts gravid females and stimulates oviposition.
+Chelbi, I.‡, **M. Shocket**‡, E. Zhioua, J. Hamilton. An oviposition pheromone, hexadecanoic acid, found on the eggs of _Phlebotomus papatasi_ from Sidi Bouzid, Tunisia attracts gravid females and stimulates oviposition.
 
 ### 2025
 
